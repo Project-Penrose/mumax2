@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # Startup script to enable CUDA GPUs
 # even without monitor or X server.
@@ -27,4 +28,3 @@ if [ "$?" -eq 0 ]; then
 else
  exit 1
 fi
-

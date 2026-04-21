@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 /*
  Binary output format.
  Header contains all 64-bit words. Strings are 8 bytes long.

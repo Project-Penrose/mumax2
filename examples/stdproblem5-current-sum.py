@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 # This file shows how to use current-sum module
 # You can create any number of electrical current quantities, e.g. j_2, j_3, ... (with any names actually)
 # @author Mykola Dvornik

@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 ## @package mumax2_magstate
 # Functions to generate arrays representing various magnetization states
 # @author Arne Vansteenkiste

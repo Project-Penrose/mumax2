@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 ## An example to demonstrate current induced switching in Py nanopraticle
 # @author Mykola Dvornik
 

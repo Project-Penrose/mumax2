@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 ## @package mumax2_material
 # Material parameters of common materials
 # @author Arne Vansteenkiste

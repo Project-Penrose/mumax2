@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 
 # $URL: http://pypng.googlecode.com/svn/trunk/code/png.py $
 # $Rev: 228 $

@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 # Lets test Zhang-Li against Nmag
 # @author Mykola Dvornik
 

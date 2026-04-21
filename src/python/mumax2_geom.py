@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 ## @package mumax2_geom
 # Functions to generate masks representing geometrical shapes
 # @author Arne Vansteenkiste

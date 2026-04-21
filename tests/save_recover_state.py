@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 from mumax2 import *
 from math import *
 eps = 1e-7

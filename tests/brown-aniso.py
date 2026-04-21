@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 from mumax2 import *
 from math import *
 from mumax2_geom import *

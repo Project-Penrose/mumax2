@@ -1,4 +1,5 @@
 #! /bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # Produces a tarball with mumax binaries
 

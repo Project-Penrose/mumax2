@@ -1,4 +1,5 @@
 #! /bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 rm -f examples.tex
 for i in ../../examples/*.py; do

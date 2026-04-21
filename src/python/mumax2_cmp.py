@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 ## @package mumax2_cmp
 # This file contains function to set initial field given a array (with grid-size and cell-size already set up)
 

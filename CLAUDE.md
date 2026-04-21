@@ -37,3 +37,4 @@ MuMax2 is **not used for new simulations.** All active simulation work uses muma
 ## Integration Points
 
 This repository does not integrate with the active Project-Penrose agent stack. It is a static archive. For active simulation orchestration, see `mumax3/` and `mumaxplus/`.
+

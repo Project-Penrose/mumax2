@@ -1,3 +1,5 @@
+# Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 # Micromagnetics standard proplem no. 5
 # As proposed by M. Najafi et al., JAP 105, 113914 (2009).
 # @author Mykola Dvornik
